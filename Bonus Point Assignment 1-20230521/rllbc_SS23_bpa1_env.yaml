@@ -1,0 +1,9 @@
+name: rllbc_bpa1
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pip
+  - tk
+  - pip:
+    - abstract

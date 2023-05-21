@@ -1,0 +1,24 @@
+Task 2 - Value Iteration
+
+Answers:
+
+
+6) 	Rounds of value iteration for start state to become non-zero: xxx
+    Why? xxx
+
+7) 	Which parameter to change: xxx
+	Value of the changed parameter: xxx
+
+8)	Parameter values producing optimal policy types:
+	    a) -n xxx -d xxx
+	    b) -n xxx -d xxx
+	    c) -n xxx -d xxx
+	    d) -n xxx -d xxx
+	    e) -n xxx -d xxx
+
+9) 	Pros: 								Cons:
+		-									-
+		-									-
+		-									-
+		-									-
+

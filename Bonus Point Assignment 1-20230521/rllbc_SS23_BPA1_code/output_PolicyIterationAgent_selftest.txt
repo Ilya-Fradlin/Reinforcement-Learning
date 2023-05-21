@@ -1,0 +1,71 @@
+
+
+ Testing the PolicyIterationAgent on the BookGrid 
+
+ values 
+ at (-1, -1) : 0.000000
+ at (0, 0) : 0.644969
+ at (0, 1) : 0.744380
+ at (0, 2) : 0.847766
+ at (0, 3) : 1.000000
+ at (1, 0) : 0.566314
+ at (1, 2) : 0.571859
+ at (1, 3) : -1.000000
+ at (2, 0) : 0.490683
+ at (2, 1) : 0.430841
+ at (2, 2) : 0.475469
+ at (2, 3) : 0.277291
+ 
+ policy 
+ at (-1, -1) move None 
+at (0, 0) move east 
+at (0, 1) move east 
+at (0, 2) move east 
+at (0, 3) move exit 
+at (1, 0) move north 
+at (1, 2) move north 
+at (1, 3) move exit 
+at (2, 0) move north 
+at (2, 1) move west 
+at (2, 2) move north 
+at (2, 3) move west 
+
+ q-values 
+ at (0, 0) for moving north : 0.589419 
+at (0, 0) for moving west : 0.573393 
+at (0, 0) for moving south : 0.532788 
+at (0, 0) for moving east : 0.644969 
+at (0, 1) for moving north : 0.670300 
+at (0, 1) for moving west : 0.598366 
+at (0, 1) for moving south : 0.670300 
+at (0, 1) for moving east : 0.744380 
+at (0, 2) for moving north : 0.767386 
+at (0, 2) for moving west : 0.663720 
+at (0, 2) for moving south : 0.568733 
+at (0, 2) for moving east : 0.847766 
+at (0, 3) for moving exit : 1.000000 
+at (1, 0) for moving north : 0.566314 
+at (1, 0) for moving west : 0.509955 
+at (1, 0) for moving south : 0.455228 
+at (1, 0) for moving east : 0.509955 
+at (1, 2) for moving north : 0.571859 
+at (1, 2) for moving west : 0.530830 
+at (1, 2) for moving south : 0.303805 
+at (1, 2) for moving east : -0.600909 
+at (1, 3) for moving exit : -1.000000 
+at (2, 0) for moving north : 0.490683 
+at (2, 0) for moving west : 0.448421 
+at (2, 0) for moving south : 0.436229 
+at (2, 0) for moving east : 0.405335 
+at (2, 1) for moving north : 0.397159 
+at (2, 1) for moving west : 0.430843 
+at (2, 1) for moving south : 0.397159 
+at (2, 1) for moving east : 0.419889 
+at (2, 2) for moving north : 0.475470 
+at (2, 2) for moving west : 0.404465 
+at (2, 2) for moving south : 0.406070 
+at (2, 2) for moving east : 0.293909 
+at (2, 3) for moving north : -0.652252 
+at (2, 3) for moving west : 0.277294 
+at (2, 3) for moving south : 0.267398 
+at (2, 3) for moving east : 0.134606 
