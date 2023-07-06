@@ -1,0 +1,32 @@
+name: rllbc_bpa2
+channels:
+  - pytorch
+  - defaults
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipykernel
+  - ipywidgets
+  - jupyterlab>=3.0.0,<4.0.0a0
+  - jupyterlab-lsp
+  - python-lsp-server
+  - jupyterlab-git
+  - numpy
+  - pandas
+  - tqdm
+  - wandb
+  - seaborn
+  - matplotlib
+  - pytorch
+  - tensorboard
+  - box2d-py
+  - swig
+  - pip
+  - pip:
+    - pygame
+    - stable-baselines3==1.2.0
+    - gym==0.23.1
+    - jupyterlab-tensorboard-pro
+    - easydict
+    - ruamel.yaml 
